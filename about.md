@@ -15,9 +15,3 @@ layout: page
 	<li>Java</li>
 	<li>Python</li>
 </ul>
-
-<h2>Projects</h2>
-
-# <ul>
-#	<li><a href="https://github.com/">Lorem Lorem</a></li>
-# </ul>
