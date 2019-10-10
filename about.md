@@ -17,3 +17,8 @@ layout: page
 	<li>Adobe Photoshop and Adobe Premiere Pro</li>
 	<li>Building and upgrading PC desktop hardware</li>
 </ul>
+
+<h2>Contact Me</h2>
+<ul class="contacts-list">
+	<li>Email: drew.m.halverson@gmail.com</li>
+</ul>
