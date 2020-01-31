@@ -9,11 +9,11 @@ layout: page
 <h2>Experience</h2>
 <p>Here is a list of related topics that I have experience with:
 <ul class="skill-list">
-	<li>HTML</li>
-	<li>CSS</li>
-	<li>Javascript</li>
-	<li>Java</li>
-	<li>Python</li>
+	<li>HTML, CSS, Javascript</li>
+	<li>Java, Python</li>
+	<li>Git & Github Desktop</li>
+	<li>Eclipse, Visual Studio Code</li>
+	<li>Experience working with Windows, MacOS, and Linux systems</li>
 	<li>Adobe Photoshop and Adobe Premiere Pro</li>
 	<li>Building and upgrading PC desktop hardware</li>
 </ul>
