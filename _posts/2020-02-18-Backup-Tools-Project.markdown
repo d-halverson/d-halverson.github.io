@@ -24,10 +24,12 @@ Right now the program isn't extremely efficient, but the next step as I move for
 Information on running in Terminal: 
 - Install latest version of JDK from Oracle's website
 - Change your working directory to be in the bin folder of this project
-- Run the command: ```java BackupTools```
+- Run the command: {% highlight html %}java BackupTools{% endhighlight %}
 - Follow onscreen instructions. 
 
 Language: 100% Java ☕
-[GitHub Link][https://github.com/d-halverson/File-Backup-Tools]
+[GitHub Link](https://github.com/d-halverson/File-Backup-Tools)
+
+---
 
 Disclaimer: Be careful! Run at your own risk, and only point to folders that you are ok with potentially losing data in if you want to test my project and be safe.
