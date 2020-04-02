@@ -17,6 +17,7 @@ description: Updates to master branch published.
 I have reworked a lot of the internal methods, and the class structures are now cleaner and faster! Searching for extra files in file systems is now much faster on average cases! Here is a demonstration of the difference in speed that can be seen in a test run on my computer, searching through a directory with about 2TB of data in it (a good number of files and folders):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh4lt_koxO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-Note: If you look closely, the search starts at about the 6 second mark of the video.
 
 ## What else changed?
 I have also cleaned up the user's experience with interacting with the program. There are now several commands that can be entered (the program continues to accept multiple commands now until the user quits), and more will be added in the future to give the program more functionality, such as finding large files. As of right now, these are the available commands:
