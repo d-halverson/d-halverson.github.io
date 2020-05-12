@@ -21,8 +21,8 @@ We were able to get what I think is a pretty nice looking GUI, and the basic fea
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://d-halverson.github.io/assets/images/covid19-US.png" alt="Program demonstration image">
-        <figcaption class="caption">Alpha 0.1</figcaption>
+        <img class="image" src="https://d-halverson.github.io/assets/images/covid19-US.png" alt="Program demonstration image" width="500">
+        <figcaption class="caption">United states data</figcaption>
     </div>
 
     <div class="toright">
@@ -32,12 +32,12 @@ We were able to get what I think is a pretty nice looking GUI, and the basic fea
 
 <div class="side-by-side">
     <div class="toleft">
-        <p>This image shows the result of the user selected a week range of dates to display through the interface at the bottom of the screen (dropdowns for selecting two dates and a check button for activating the selection).</p>
+        <p>This image shows the result of the user selected a range of dates to display through the interface at the bottom of the screen (dropdowns for selecting two dates and a check button for activating the selection).</p>
     </div>
 
     <div class="toright">
-        <img class="image" src="https://d-halverson.github.io/assets/images/covid19-date-range.png" alt="Program demonstration image date range">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <img class="image" src="https://d-halverson.github.io/assets/images/covid19-US-date-range.png" alt="Program demonstration image date range" width="500">
+        <figcaption class="caption">A portion of data being displayed</figcaption>
     </div>
 </div>
 
