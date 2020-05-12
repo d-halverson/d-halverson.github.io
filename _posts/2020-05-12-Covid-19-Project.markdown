@@ -41,5 +41,7 @@ We were able to get what I think is a pretty nice looking GUI, and the basic fea
     </div>
 </div>
 
+(If you want to view larger images of the program, right click an image and open it in a new tab please)
+
 ## How to run the program
 If you are interested in learning more and trying the program out for yourself, [click here](https://github.com/RitwikN7/a25-covid-visualizer) to view the GitHub repository, and [click here](https://github.com/RitwikN7/a25-covid-visualizer/releases/tag/v0.1-alpha) for the release (the release link will give you a zip download of just the necessary files to run the program). Once you download the release.zip (click release.zip after clicking the release link above), unzip it and go into the unzipped folder. There from a terminal you can run the command ```./covid-19-visualizer.sh```. For more information about interacting with the program, please refer to the readme on the GitHub repository (first link in this paragraph). If you want to run the program from a Windows machine, the shell script will not work in the default command prompt. If you have java installed on your machine, your should be able to run the command ```java --module-path "javafx-sdk-11.0.2/lib" --add-modules javafx.controls,javafx.fxml  -jar executable.jar```, but I have not personally tried this on a Windows computer yet.
