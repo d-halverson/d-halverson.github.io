@@ -24,7 +24,7 @@ Right now the program isn't extremely efficient, but the next step as I move for
 Information on running in Terminal: 
 - Install latest version of JDK from Oracle's website
 - Change your working directory to be in the bin folder of this project
-- Run the command: {% highlight html %}java BackupTools{% endhighlight %}
+- Run the command: {% highlight html %}java ui.BackupTools{% endhighlight %}
 - Follow onscreen instructions. 
 
 Language: 100% Java ☕
