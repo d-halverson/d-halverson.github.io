@@ -4,23 +4,27 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am Drew Halverson, I am a sophomore at UW-Madison studying computer science. I have found some great groups of people to get involved with on campus here, such as Kappa Eta Kappa, a professional engineering co-ed fraternity, and Chi Alpha, a christian campus ministry organization.</p> 
+<p>Hi! I am Drew Halverson, I am a Junior at UW-Madison studying computer science. I am currently spending my free time working as an unpaid software engineer intern with a start up called the [Trulight Project](https://trulightproject.com). During my time working on this project so far, I have worked with a small team of other interns to complete tasks such as: researching and selecting a cloud computing platform, designing UML to clearly communicate code structure, creating a backend algorithm that lives on Google Cloud Platform, and creating an API with on GCP with Spring framework and OpenAPI. This opportunity has been a great experience so far to learn and see first hand how a formal team works together and get assignments done.</p>
 
-<p>I love solving problems with creative solutions, and I have found that computers are the perfect medium for me to do this with. Outside of class and clubs, I enjoy practicing coding related problems and studying computer science topics, because I am always curious and want to learn more. Currently I am working on a program that analyzes backup hard drives with the usage of a tree data structure in Java and detects files that the user no longer needs.</p>
-
-<p>Last year I attended the University of St. Thomas for my first year of college, and found that it was not the right fit for me, as it was much too small and did not have nearly as many opportunities and experiences available as there are here in Madison. Last summer I spent my time working at Elite Sports Clubs as a summer camp counselor, where I grew my interpersonal skills significantly. Not only did I spend most of my day working with kids ranging from age four to thirteen, but I also was tasked with ensuring the parents of these children that they are in a safe and fun environment during their time with us. Within the next few years, I hope to spend time as an intern in positions related to software development, my true passion.</p>
+<p>I also enjoy working on some of my own personal coding projects, such as my [File Backup Tools](https://github.com/d-halverson/File-Backup-Tools) project. You can read more about these projects in the [blog](https://d-halverson.github.io/blog/) section of this website, or visit my [GitHub](https://github.com/d-halverson) to get a closer look.</p>
 
 <h2>Experience</h2>
 <p>Here is a list of related topics that I have experience with:
 <ul class="skill-list">
 	<li>HTML, CSS, Javascript</li>
 	<li>Java, Python</li>
-	<li>Git & Github Desktop</li>
-	<li>Eclipse, Visual Studio Code</li>
-	<li>Experience working with Windows, MacOS, and Linux systems</li>
-	<li>Adobe Photoshop and Adobe Premiere Pro</li>
+	<li>Git & Github</li>
+	<li>Eclipse, IntelliJ IDEA, Visual Studio Code</li>
+	<li>Spring framework, OpenAPI, REST APIs</li>
+	<li>Google Cloud Platform products: App Engine, Datastore, Endpoints, Cloud Run</li>
+	<li>Agile development and Jira</li>
+	<li>JUnit testing</li>
+	<li>Experience working with Windows, MacOS, and Linux systems & Unix Terminal</li>
 	<li>Building and upgrading PC desktop hardware</li>
+	<li>Adobe Photoshop and Adobe Premiere Pro</li>
 </ul>
+
+<p>I am actively looking for internship oppotunities for Summer 2021! If you think I may be a good fit, please get in touch with me!</p>
 
 <h2>Contact Me</h2>
 <ul class="contacts-list">
