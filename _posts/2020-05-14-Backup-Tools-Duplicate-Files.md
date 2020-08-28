@@ -10,7 +10,7 @@ tag:
 - Backup-Tools
 category: blog
 author: drewhalverson
-description: Published Backup Tools project to GitHub!
+description: Added duplicate files command!
 ---
 
 
