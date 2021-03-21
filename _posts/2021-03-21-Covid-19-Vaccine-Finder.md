@@ -1,7 +1,7 @@
 ---
 title: "Automating the Search for Covid-19 Vaccine Appointments at Walgreens"
 layout: post
-date: 2020-03-21 12:30
+date: 2022-03-21 12:30
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
