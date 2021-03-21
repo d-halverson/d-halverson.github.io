@@ -22,6 +22,7 @@ Using the Python library [Selenium](https://selenium-python.readthedocs.io/getti
 <img class="image" src="https://d-halverson.github.io/assets/images/appt-found.png" alt="Program demonstration image" width="500">
 <figcaption class="caption">Appointment found message send by SMS.</figcaption>
 
+
 Here is a quick demonstration of what it looks like when the program is running (running on zip codes near UW-Madison for testing purposes, but did not find any appointments during demonstration):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JkJHz0Q2sAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
