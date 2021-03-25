@@ -5,6 +5,16 @@ layout: compress
 <html lang="en">
 <head>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y8DX7D8PE"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-8Y8DX7D8PE');
+    </script>
+
     {% if site.analytics-google %}
         {% include analytics-google.html %}
     {% endif %}
