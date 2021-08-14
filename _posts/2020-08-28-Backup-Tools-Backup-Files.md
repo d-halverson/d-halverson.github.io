@@ -1,5 +1,5 @@
 ---
-title: "Backup Tools - Backuping Up Files"
+title: "Backup Tools - Backing Up Files"
 layout: post
 date: 2020-08-28 13:16
 image: /assets/images/markdown.jpg
