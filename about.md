@@ -32,4 +32,5 @@ I also enjoy working on some of my own personal coding projects, such as my [Fil
 <h2>Contact Me</h2>
 <ul class="contacts-list">
 	<li>Email: drew.m.halverson@gmail.com</li>
+	<li>LinkedIn: [My Profile](https://www.linkedin.com/in/drew-halverson-967575194)</li>
 </ul>
