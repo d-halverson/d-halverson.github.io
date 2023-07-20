@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hello, my name is Drew Halverson, and I am a Staff Software Engineer at Palo Alto Networks. Thank you for taking the time to take a look at my website! Please take a look at my [resume](https://d-halverson.github.io/assets/resume.pdf)
+Hello, my name is Drew Halverson, and I am a Staff Software Engineer at Palo Alto Networks. Thank you for taking the time to take a look at my website! Please take a look at my [resume](https://d-halverson.github.io/assets/resume.pdf).
 
 <h2>Contact Me</h2>
 <ul class="contacts-list">
