@@ -1,6 +1,6 @@
 # main text of home
 name: Drew Halverson
-bio: Palo Alto Networks Staff Software Engineer, University of Wisconsin-Madison Computer Science Alum
+bio: Google Software Engineer, Ex Palo Alto Networks, Ex Amazon, University of Wisconsin-Madison Computer Science Alum
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: drew.m.halverson@gmail.com
 authors:
     drewhalverson:
         name: Drew Halverson
-        bio: A college student studying computer science at the University of Wisconsin-Madison.
+        bio: Software Engineer at Google, Ex Palo Alto Networks, Ex Amazon
         external-image: false
         picture: assets/images/headshot.png
 
