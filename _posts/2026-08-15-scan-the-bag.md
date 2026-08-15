@@ -68,6 +68,3 @@ It doesn't. Per scan:
 Scanning a thousand bags in a single month costs about a nickel, total, almost all of it the Gemini side since Vision's free tier absorbs the rest. Even at real volume it stays under two-tenths of a cent per scan. Flash-Lite is priced for exactly this kind of high-volume, low-stakes extraction job — it's not writing prose, it's filling in nine short fields from a label, and it doesn't need a bigger model to do that well.
 
 I'm currently on **Gemini 3.1 Flash-Lite**, one tier up from where this started — the 2.5 line retires in October, and 3.1 turned out to only be reachable through Vertex AI's `global` endpoint rather than a region-pinned one, which took a bit of digging to track down. Cost roughly triples per scan at that tier, but "roughly triples" of a fraction of a cent is still nothing.
-
-# What's next
-The one gap left: since this only ever sees flattened OCR text, it has no idea which line was printed largest on the bag — the exact signal a human uses to tell "this is the product name" from "this is a tagline underneath it." Feeding the model the photo directly instead of (or alongside) OCR text is the next thing on the list; Flash-Lite already reads images natively, so it's mostly a matter of trying it and seeing if it's worth the extra token cost.
