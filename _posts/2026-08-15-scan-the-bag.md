@@ -2,7 +2,7 @@
 title: "Scan the Bag: Cheap OCR + Gemini Flash-Lite in Mug Shot"
 layout: post
 date: 2026-08-15 16:00
-image: /assets/images/coffeetracker/feed.png
+image: /assets/images/coffeetracker/scan-review-form.png
 headerImage: false
 tag:
 - Coffee
