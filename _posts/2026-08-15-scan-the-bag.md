@@ -66,5 +66,3 @@ It doesn't. Per scan:
 | **Total after the free tier** | **~$0.0015 per bag** |
 
 Scanning a thousand bags in a single month costs about a nickel, total, almost all of it the Gemini side since Vision's free tier absorbs the rest. Even at real volume it stays under two-tenths of a cent per scan. Flash-Lite is priced for exactly this kind of high-volume, low-stakes extraction job — it's not writing prose, it's filling in nine short fields from a label, and it doesn't need a bigger model to do that well.
-
-I'm currently on **Gemini 3.1 Flash-Lite**, one tier up from where this started — the 2.5 line retires in October, and 3.1 turned out to only be reachable through Vertex AI's `global` endpoint rather than a region-pinned one, which took a bit of digging to track down. Cost roughly triples per scan at that tier, but "roughly triples" of a fraction of a cent is still nothing.
